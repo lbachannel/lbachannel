@@ -13,7 +13,7 @@
 
 ### Stack 🛠️
 
-<p align="center">
+<p style="display: flex; gap: 8px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/HTML5-F6F8FA?logo=html5&logoColor=E34F26" height="25" />
   <img src="https://img.shields.io/badge/CSS3-F6F8FA?logo=css3&logoColor=1572B6" height="25" />
   <img src="https://img.shields.io/badge/JavaScript-F6F8FA?logo=javascript&logoColor=F7DF1E" height="25" />
