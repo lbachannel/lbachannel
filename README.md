@@ -11,7 +11,7 @@
 
 ---
 
-### Stack 🛠️
+### Technologies and Tools
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-F6F8FA?logo=html5&logoColor=E34F26" height="25" />&nbsp;
