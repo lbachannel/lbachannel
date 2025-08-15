@@ -1,5 +1,6 @@
 ## I'm An, Fullstack JavaScript Developer 🎨
 
+- 🎯 9 months of experience as a Java Developer  
 - 📚 Currently making progress on my side projects
 - 💼 I’m currently sharpening JavaScript, React, Node skills and available for any new opportunities.
 
