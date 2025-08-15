@@ -12,15 +12,7 @@
 ---
 
 ### Stack 🛠️
-<style>
-  .badge {
-    transition: 0.3s ease;
-  }
-  .badge:hover {
-    filter: brightness(95%) saturate(150%);
-    transform: scale(1.05);
-  }
-</style>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-F6F8FA?logo=html5&logoColor=E34F26" height="25" />
   <img src="https://img.shields.io/badge/CSS3-F6F8FA?logo=css3&logoColor=1572B6" height="25" />
