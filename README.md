@@ -1,7 +1,7 @@
 ## I'm An, Fullstack JavaScript Developer 💻🎨
 
 - 📚 Currently making progress on my side projects
-- 💼 I’m currently learning new technologies and available for any new opportunities.
+- 💼 I’m currently sharpening JavaScript, React, Node skills and available for any new opportunities.
 
 ---
 
