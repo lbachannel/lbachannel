@@ -1,4 +1,4 @@
-## I'm An, Fullstack JavaScript Developer 💻🎨
+## I'm An, Fullstack JavaScript Developer 🎨
 
 - 📚 Currently making progress on my side projects
 - 💼 I’m currently sharpening JavaScript, React, Node skills and available for any new opportunities.
@@ -11,7 +11,7 @@
 
 ---
 
-### Technologies and Tools
+### Technologies and Tools 💻
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-F6F8FA?logo=html5&logoColor=E34F26" height="25" />&nbsp;
