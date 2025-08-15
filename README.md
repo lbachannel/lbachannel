@@ -12,9 +12,8 @@
 ---
 
 ### Stack 🛠️
-- Languages: <div><img src="https://img.shields.io/badge/HTML5-F6F8FA?logo=html5&logoColor=E34F26" height="25" />&nbsp;
+- Languages: <img src="https://img.shields.io/badge/HTML5-F6F8FA?logo=html5&logoColor=E34F26" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-F6F8FA?logo=css3&logoColor=1572B6" height="25" />&nbsp;
-</div>
 <div>
   <img src="https://img.shields.io/badge/HTML5-F6F8FA?logo=html5&logoColor=E34F26" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-F6F8FA?logo=css3&logoColor=1572B6" height="25" />&nbsp;
