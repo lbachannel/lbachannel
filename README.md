@@ -19,10 +19,10 @@
   <img src="https://img.shields.io/badge/CSS3-F6F8FA?logo=css3&logoColor=1572B6" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F6F8FA?logo=javascript&logoColor=F7DF1E" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/ReactJS-F6F8FA?logo=react&logoColor=61DAFB" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/NextJS-F6F8FA?logo=react&logoColor=61DAFB" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-F6F8FA?logo=next.js&logoColor=000000" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-F6F8FA?logo=typescript&logoColor=3178C6" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Node.js-F6F8FA?logo=node.js&logoColor=339933" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/Nest.js-F6F8FA?logo=node.js&logoColor=339933" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/NestJS-F6F8FA?logo=nestjs&logoColor=E0234E" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-F6F8FA?logo=mongodb&logoColor=47A248" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-F6F8FA?logo=mysql&logoColor=4479A1" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Sass-F6F8FA?logo=sass&logoColor=CC6699" height="25" />&nbsp;
